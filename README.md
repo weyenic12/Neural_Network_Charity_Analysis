@@ -15,7 +15,7 @@
   - SPECIAL_CONSIDERATIONS—Special consideration for application
   - ASK_AMT—Funding amount requested
 - We are removing EIN and NAME—Identification columns from the data.
-- [model_info](https://user-images.githubusercontent.com/80421977/127804022-9b1e9e21-6c1a-444f-b9bb-34c53a7dd38b.PNG)
+- ![model_info](https://user-images.githubusercontent.com/80421977/127804022-9b1e9e21-6c1a-444f-b9bb-34c53a7dd38b.PNG)
 - Tried to increase the accuracy of the model by increasing the application_count to be higher for our replace_application and I dropped three additional columns in our application_df. However, by doing this it made the model go from 72% accuracy down to 68% accuracy and therefore was unsuccessful.
 --------------------------
 ## Summary
